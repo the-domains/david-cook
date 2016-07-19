@@ -1,0 +1,28 @@
+name: David Cook
+favicon: null
+layout_spectrum: 0.05688
+typography_spectrum: 0.86504
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#272b0f'
+    - '#508e00'
+    - '#abdd9b'
+    - '#b4806f'
+  brandStrength: 0.8248889388050884
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0.25
+purpose: []
