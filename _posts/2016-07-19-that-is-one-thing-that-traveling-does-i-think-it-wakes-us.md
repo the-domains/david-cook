@@ -32,14 +32,14 @@ description: >-
   protagonist in this dramatic, painful, treacherous, incredibly beautiful
   world. And I feel so happy to have been given such an extraordinary setting
   for my story. What a world. I couldn't ask for more. 
-datePublished: '2016-07-19T03:25:20.791Z'
-dateModified: '2016-07-19T03:25:20.269Z'
+datePublished: '2016-07-19T03:27:11.115Z'
+dateModified: '2016-07-19T03:27:05.013Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-19-that-is-one-thing-that-traveling-does-i-think-it-wakes-us.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-19-that-is-one-thing-that-traveling-does-i-think-it-wakes-us.md
+starred: true
 url: that-is-one-thing-that-traveling-does-i-think-it-wakes-us/index.html
 _type: Article
 
