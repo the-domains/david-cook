@@ -1,7 +1,7 @@
 name: David Cook
 favicon: null
-layout_spectrum: 0.05688
-typography_spectrum: 0.86504
+layout_spectrum: 0.4805085165426135
+typography_spectrum: 0.5845702604856342
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#01b2b4'
-    - '#7bdac4'
-    - '#518183'
-    - '#fefff8'
-    - '#ada99d'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.375
-  rhythmicContrast: 0.25
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8248889388050884
+  lightness: 0.6548754582181573
+  saturation: 0.37887821858748794
+  rhythmicContrast: 0.3096161021385342
 purpose: []
